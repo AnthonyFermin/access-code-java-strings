@@ -1,7 +1,7 @@
 package nyc.c4q.AnthonyFermin;
 
 /**
- * Created by c4q-anthonyf on 3/4/15.
+ * Created by c4q-anthonyf: Anthony Fermin on 3/4/15.
  * Twelve Days of Christmas Lyrics printed into console
  */
 public class TwelveDaysOfChristmas2 {
